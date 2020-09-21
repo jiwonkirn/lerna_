@@ -75,3 +75,8 @@ root 에서 `lerna run --scope [package-name] [script command]` 로 실행하면
 ```
 lerna run --scope @packages/* start
 ```
+
+## 참고자료
+
+- [Lerna Docs](https://github.com/lerna/lerna)
+- [Mono Repo 를 위한 Lerna 간단 정리하기](https://medium.com/@pks2974/mono-repo-%EB%A5%BC-%EC%9C%84%ED%95%9C-lerna-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-65c22029988)
